@@ -14,6 +14,7 @@
 		F1A9D8421E800D6700EA6EF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1A9D8401E800D6700EA6EF5 /* LaunchScreen.storyboard */; };
 		F1A9D84D1E800D6700EA6EF5 /* drawCircleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A9D84C1E800D6700EA6EF5 /* drawCircleTests.swift */; };
 		F1A9D8581E800D6700EA6EF5 /* drawCircleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A9D8571E800D6700EA6EF5 /* drawCircleUITests.swift */; };
+		F1A9D8661E80165900EA6EF5 /* Circle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A9D8651E80165900EA6EF5 /* Circle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F1A9D8531E800D6700EA6EF5 /* drawCircleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = drawCircleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1A9D8571E800D6700EA6EF5 /* drawCircleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = drawCircleUITests.swift; sourceTree = "<group>"; };
 		F1A9D8591E800D6800EA6EF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1A9D8651E80165900EA6EF5 /* Circle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Circle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				F1A9D8371E800D6700EA6EF5 /* AppDelegate.swift */,
 				F1A9D8391E800D6700EA6EF5 /* ViewController.swift */,
+				F1A9D8651E80165900EA6EF5 /* Circle.swift */,
 				F1A9D83B1E800D6700EA6EF5 /* Main.storyboard */,
 				F1A9D83E1E800D6700EA6EF5 /* Assets.xcassets */,
 				F1A9D8401E800D6700EA6EF5 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				F1A9D83A1E800D6700EA6EF5 /* ViewController.swift in Sources */,
 				F1A9D8381E800D6700EA6EF5 /* AppDelegate.swift in Sources */,
+				F1A9D8661E80165900EA6EF5 /* Circle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
